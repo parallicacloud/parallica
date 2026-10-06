@@ -1,0 +1,21 @@
+{
+  "version": "v1.0.0",
+  "title": {
+    "en": "Compute Beyond Boundaries",
+    "zh-SG": "突破边界，释放算力",
+    "zh-TW": "突破邊界，釋放算力",
+    "ja-JP": "コンピューティングの、その先へ",
+    "ko-KR": "컴퓨팅의 한계를 넘어"
+  },
+  "content": {
+    "en": "Compute without boundaries.\n\nParallica brings high-performance computing closer to the way you work—turning demanding workloads into scalable compute, without the complexity of traditional HPC infrastructure.\n\nFrom intensive simulations to large-scale parallel workloads, Parallica is built to help you move from idea to result with less friction and more computing power when it matters.\n\nBuilt for what comes next:\n⚡ High-performance compute on demand\n🧩 Parallel execution for demanding workloads\n☁️ Scale beyond local compute resources\n🧠 Smarter orchestration of compute resources\n📈 Built to handle workloads as they grow\n\nYour workload shouldn't be limited by the machine in front of you.\n\nThink bigger.\nCompute faster.\nScale with Parallica.\n\n— Parallica Team",
+    "zh-SG": "让计算，不再受限于边界。\n\nParallica 将高性能计算融入你的工作方式，让复杂、高负载的计算任务获得可扩展的算力支持，同时摆脱传统 HPC 基础设施带来的复杂性。\n\n从高强度模拟到大规模并行工作负载，Parallica 致力于缩短从想法到结果的距离，在真正需要的时候，为任务提供更强大的计算能力。\n\n为更大的计算而生：\n⚡ 按需获取高性能算力\n🧩 面向复杂工作负载的并行执行能力\n☁️ 突破本地计算资源限制，灵活扩展\n🧠 更智能的计算资源调度\n📈 随工作负载增长持续扩展\n\n你的计算，不应该被眼前这台机器所限制。\n\n想得更大。\n算得更快。\n与 Parallica 一起扩展算力边界。\n\n—— Parallica Team",
+    "zh-TW": "讓運算，不再受限於邊界。\n\nParallica 將高效能運算融入你的工作方式，讓複雜、高負載的運算任務獲得可擴展的算力支援，同時擺脫傳統 HPC 基礎架構所帶來的複雜性。\n\n從高強度模擬到大規模平行工作負載，Parallica 致力於縮短從想法到結果的距離，在真正需要的時候，為任務提供更強大的運算能力。\n\n為更大的運算而生：\n⚡ 隨需取得高效能算力\n🧩 面向複雜工作負載的平行執行能力\n☁️ 突破本地運算資源限制，彈性擴展\n🧠 更智慧的運算資源調度\n📈 隨工作負載成長持續擴展\n\n你的運算，不應該被眼前這台機器所限制。\n\n想得更大。\n算得更快。\n與 Parallica 一起擴展算力邊界。\n\n—— Parallica Team",
+    "ja-JP": "コンピューティングに、境界はいらない。\n\nParallica は、高性能コンピューティングを日々のワークフローへ。複雑な HPC インフラストラクチャに縛られることなく、高負荷なワークロードに必要なコンピューティングリソースを柔軟に拡張できます。\n\n高度なシミュレーションから大規模な並列ワークロードまで。Parallica は、アイデアから結果までの距離を縮め、必要なときに必要なコンピューティングパワーを提供します。\n\n次のコンピューティングのために：\n⚡ オンデマンドの高性能コンピューティング\n🧩 高負荷ワークロードに対応する並列実行\n☁️ ローカルマシンを超えた柔軟なスケーリング\n🧠 よりスマートなコンピューティングリソース管理\n📈 ワークロードの成長に合わせたスケーラビリティ\n\nコンピューティングの可能性を、目の前のマシンだけに制限しない。\n\nもっと大きく考える。\nもっと速く計算する。\nParallica と、その先へ。\n\n— Parallica Team",
+    "ko-KR": "컴퓨팅의 한계를 넘어.\n\nParallica는 고성능 컴퓨팅을 기존 워크플로우에 자연스럽게 연결합니다. 복잡한 기존 HPC 인프라에 얽매이지 않고, 높은 연산 성능이 필요한 워크로드에 확장 가능한 컴퓨팅 리소스를 제공합니다.\n\n고강도 시뮬레이션부터 대규모 병렬 워크로드까지, Parallica는 아이디어에서 결과까지의 거리를 줄이고 필요한 순간에 더 강력한 컴퓨팅 성능을 활용할 수 있도록 설계되었습니다.\n\n다음 단계의 컴퓨팅을 위해:\n⚡ 온디맨드 고성능 컴퓨팅\n🧩 복잡한 워크로드를 위한 병렬 실행\n☁️ 로컬 컴퓨팅 리소스를 넘어서는 유연한 확장\n🧠 더욱 스마트한 컴퓨팅 리소스 오케스트레이션\n📈 워크로드 증가에 대응하는 확장성\n\n당신의 컴퓨팅은 눈앞의 한 대의 머신에 제한될 필요가 없습니다.\n\n더 크게 생각하고.\n더 빠르게 계산하고.\nParallica와 함께 확장하세요.\n\n— Parallica Team"
+  },
+  "WindownloadUrl": "https://github.com/parallicacloud/parallica/releases/",
+  "MacdownloadUrl": "https://github.com/parallicacloud/parallica/releases/",
+  "Mac86downloadUrl": "https://github.com/parallicacloud/parallica/releases/",
+  "mandatory": false
+}
